@@ -1,15 +1,17 @@
-# No Cyber bullies 
+# Online Suicidal Tendencies Reporter
 
 
 
 <p align="center">
-    <img src="http://git-assets.react-starter-kit.com/logo.png">  
+    <img src="">  
 </p>
 
 
 
 
 ### About:
+
+This is an attempt to identify suicidal tendencies of users online before it's too late. It identifies change in mood (similar to suicidal) and then tries to connect the user with Suicide prevention authorities
 
 This is a real-time chat application built using React (Create React App on the frontend) and NodeJS/Express/Socket.io Backend.
 
